@@ -19,6 +19,8 @@ class MyApp extends StatelessWidget {
       ),
       theme: ThemeData(
         primarySwatch: Colors.green,
+        fontFamily: 'custom_font',
+
       ),
     );
   }

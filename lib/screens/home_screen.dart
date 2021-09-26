@@ -27,6 +27,7 @@ class HomeScreen extends StatelessWidget {
           style: TextStyle(
             color: Colors.green,
             fontWeight: FontWeight.bold,
+            fontFamily: 'custom_font'
           ),
         ),
         actions: [
